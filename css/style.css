@@ -98,31 +98,24 @@
 }
 /*section 2*/
 .container1 {
-	width: 1170px;
-	height: 965px;
+	width: 1171px;
 	margin: 0 auto;
+	background-color: #FAFAFA;
 }
-.box-wraper {
+.main-box {
 	display: flex;
-	justify-content: flex-end;
+	justify-content: space-between;
+	flex-wrap: wrap;
 
 }
 .box1 {
 	width: 351px;
 	height: 354px;
 	background-color: yellow;
-	/*display: inline-block;*/
+	margin-bottom: 25px;
 }
 .box2 {
 	width: 351px;
 	height: 354px;
 	background-color: green;
-/*	display: inline-block;
-*/
 }
-.box3 {
-	width: 351px;
-	height: 354px;
-	background-color: blue;
-/*	display: inline-block;
-*/}
