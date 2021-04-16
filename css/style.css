@@ -167,3 +167,9 @@
 	margin-top: 27px;
 	margin-bottom: 9px;
 }
+
+/*fonts*/
+.logo {
+	font-family: 'Dancing Script', cursive;
+	font-size: 28px;
+}
